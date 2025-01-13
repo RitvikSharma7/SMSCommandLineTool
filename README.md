@@ -1,4 +1,4 @@
-# SMSCommandLineTool
+# SMSCommandLineToolCUI
 Bash scripting based student management system using whiptail CUI.
 
 
@@ -29,6 +29,38 @@ Bash scripting based student management system using whiptail CUI.
 ## Quitting the CUI application
 ![Screenshot 2025-01-14 011549](https://github.com/user-attachments/assets/e121e583-9e9b-49a1-acd4-e759b1c37fbf)
 ![Screenshot 2025-01-14 011606](https://github.com/user-attachments/assets/6ebf8bc0-b541-42fc-93ae-c512634ebec8)
+----------------------------------------------------------------------------------------------------------------
+
+# SMSCommandLineToolCLI
+Bash scripting based student management system using bash CLI.
+
+## Menu Screen
+![Screenshot 2025-01-14 015928](https://github.com/user-attachments/assets/340d2f6c-fde4-47b6-ab46-b792beb75739)
+
+## Adding a student record
+![Screenshot 2025-01-14 020024](https://github.com/user-attachments/assets/8fc1351e-482d-4f6d-a6ae-6bb265efb077)
+
+## Looking at all of the records
+![Screenshot 2025-01-14 020053](https://github.com/user-attachments/assets/e68ea217-87e9-4788-a238-9b0e70aacf6d)
+
+## Searching a student record
+![Screenshot 2025-01-14 020126](https://github.com/user-attachments/assets/86d26bdc-1c80-41ad-a7ba-f6114f5e48f1)
+
+![Screenshot 2025-01-14 020843](https://github.com/user-attachments/assets/9c7d8c94-9f74-419b-b4c5-d6cb5e6b8adf)
+
+## Deleting a student record
+![Screenshot 2025-01-14 020155](https://github.com/user-attachments/assets/9444a638-8da6-4309-9183-27539e7453c2)
+
+![Screenshot 2025-01-14 020904](https://github.com/user-attachments/assets/17f3c1c7-ada8-4e46-bbd6-7680a03ab4d3)
+
+## Quitting the CLI application
+![Screenshot 2025-01-14 020215](https://github.com/user-attachments/assets/24edcd98-3c3c-4358-929f-72fd36159aeb)
+
+
+
+
+
+
 
 
 
