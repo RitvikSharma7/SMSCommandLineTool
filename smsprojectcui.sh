@@ -92,7 +92,7 @@ delete()
 search()
 {
 
-  SID=$(whiptail --title "SMS TOOL" --inputbox "Enter student ID to search student record." 8 70 3>&1 1>&2 2>&3)
+  SID=$(whiptail --title "SMS TOOL" --inputbox "Enter student ID or student NAME to search student record." 8 70 3>&1 1>&2 2>&3)
   local exit_codeS=$?
 
   if [[ "$exit_codeS" -ne 0 ]]; then
