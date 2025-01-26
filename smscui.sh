@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x
 
-fileName="sturec.csv"
+fileName=".sturec.csv"
 
 if [[ ! -s "$fileName" ]]; then
 	echo "|     ID     |     NAME     |     FINAL GRADE     |" >> "$fileName"
